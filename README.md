@@ -14,6 +14,5 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 > *Fun fact: I thrive under resource constraints. My entire development, remote server management, and local logic testing workflow is fully optimized to run straight from a Linux terminal environment on mobile devices, mastering resource efficiency.*
 
 ### 📈 Find Me Around the Web
-* **LinkedIn:** [Insert your LinkedIn profile link here]
 * **Email:** madeleygraham9@gmail.com
 
